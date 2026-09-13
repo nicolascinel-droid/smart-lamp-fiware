@@ -8,7 +8,7 @@ O projeto consiste em uma Smart Lamp utilizando ESP32, sensor LDR, MQTT e a plat
 
 - Nicolas Cinel
 - Luis Fernando
-- Kelvin
+- Kelvin Lucas
 - Leonardo Formigari
 
 ## 🛠️ Tecnologias utilizadas
